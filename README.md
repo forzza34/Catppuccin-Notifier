@@ -20,5 +20,5 @@ Edit `ports.js` and add an entry:
 { name: "Site Name", url: "https://github.com/catppuccin/userstyles/...", match: ["example.com"] }
 ```
 
-# This Add-on was built with the help of Claude AI.
+# This Add-on was built with the help of Claude AI. Please don't harras me over it being AI assisted.
 
