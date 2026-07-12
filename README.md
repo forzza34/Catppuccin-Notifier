@@ -2,6 +2,8 @@
 
 A Firefox extension that notifies you whenever a [Catppuccin](https://catppuccin.com) userstyle is available for the website you're visiting.
 
+Also keep in mind a lot of the sites wont notify you if there is a port as this add-on isnt maintained enough and I will not me maintaining it
+
 ## Features
 
 - Desktop notification when you land on a site with a Catppuccin port
